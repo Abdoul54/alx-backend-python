@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
 '''
-    Write a function that takes a list of floats as input and returns the sum of the list.
+    Write a function that takes a list of floats as input
+    and returns the sum of the list.
 '''
 
 
