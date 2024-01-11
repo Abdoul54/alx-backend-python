@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+'''
+    Write a function that takes a list of floats as input and returns the sum of the list.
+'''
+
 
 def sum_list(input_list: list[float]) -> float:
     """

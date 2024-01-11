@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+'''
+    floor(n) returns the floor of the float n.
+'''
+
 
 def floor(n: float) -> int:
     """
